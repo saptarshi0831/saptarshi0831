@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saptarshi Das</h1>
-<h3 align="center">Software Engineer | NIT Patna '27</h3>
+<h3 align="center">Aspiriring Software Engineer | NIT Patna '27</h3>
 
 <p align="center">
   <b>Machine Learning • Data Analytics • Full-Stack Development</b>
